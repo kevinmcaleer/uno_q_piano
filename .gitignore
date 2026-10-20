@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+models/
+# Generated per setup; regenerate with make_sheet.py / calibrate.py
+sheet.pdf
+sheet.png
+sheet_layout.json
+calib_*.json
+calib_*_overlay.jpg
